@@ -1,0 +1,33 @@
+{
+  "name": "charcoalgraphy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0",
+    "helmet": "^3.18.0",
+    "knex": "^0.17.0-next3",
+    "morgan": "^1.9.1",
+    "pg": "^7.11.0",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapkalrohan/Charcoalgraphy.git"
+  },
+  "author": "sapkalrohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sapkalrohan/Charcoalgraphy/issues"
+  },
+  "homepage": "https://github.com/sapkalrohan/Charcoalgraphy#readme"
+}
